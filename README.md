@@ -1,4 +1,4 @@
-### Hi, I'm Jhon 👋
+### I'm Jhon
 
 Data Engineer with a background in Physics and Data Science.
 I build end-to-end data pipelines using Python, SQL, Airflow, and Docker.
