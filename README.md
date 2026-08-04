@@ -63,24 +63,6 @@ I started in Physics, where I learned to think in systems and rely on data to un
 
 ---
 
-### 📌 Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [youtube-elt](https://github.com/jhongarciab/youtube-elt) | End-to-end ELT pipeline that extracts data from the YouTube API, orchestrated with Airflow DAGs and CI/CD | Python, PostgreSQL, Airflow, Docker |
-| [river-discharge-dw](https://github.com/jhongarciab/river-discharge-dw) | PostgreSQL data warehouse for monthly river discharge time series and standardized anomaly analysis across South American basins | PostgreSQL, Python |
-
----
-
-### 📈 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhongarciab&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhongarciab&layout=compact" />
-</p>
-
----
-
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-garcía-barrera-66b350290)
