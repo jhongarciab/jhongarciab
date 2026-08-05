@@ -20,7 +20,7 @@ I started in Physics, where I learned to think in systems and rely on data to un
 
 ### 🎓 Education
 
-- MSc in Physical Sciences — Universidad Nacional de Colombia
+- M.Sc in Physical Sciences — Universidad Nacional de Colombia
 - B.Sc. Physics — Universidad del Quindío
 - B.Eng. Data Science Engineering — Corporación Universitaria Iberoamericana
 
